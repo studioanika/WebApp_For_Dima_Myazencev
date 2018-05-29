@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Бин Го Слот</string>
+    <string name="facebook_app_id">398052867272752</string>
+    <string name="url">http://traffroad.ru/QRFgRh</string>
+    <string name="dialog_exit_answer">Вы действительно хотите покинуть приложение?</string>
+    <string name="dialog_exit_no">Нет</string>
+    <string name="dialog_exit_yes">Да</string>
+    <string name="error_msg">Возникла ошибка!\n Проверьте интернет-соединение</string>
+</resources>
